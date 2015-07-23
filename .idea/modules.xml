@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NovaNext.iml" filepath="$PROJECT_DIR$/NovaNext.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libgdx/libgdx.iml" filepath="$PROJECT_DIR$/libgdx/libgdx.iml" />
     </modules>
   </component>
 </project>
