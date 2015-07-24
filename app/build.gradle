@@ -21,7 +21,7 @@ android {
 
 dependencies {
     compile 'com.android.support:appcompat-v7:22.2.0'
-    //compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(dir: 'libs', include: ['*.jar'])
     compile project(':libgdx')
     compile files('../libgdx/build/libs/libgdx.jar')
 }
